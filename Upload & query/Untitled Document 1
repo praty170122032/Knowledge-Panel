@@ -1,0 +1,3 @@
+nested(enriched_text.entities).filter(enriched_text.entities.type::Company).term(enriched_text.entities.text)
+
+enriched_text.categories.label:artificial intelligence
