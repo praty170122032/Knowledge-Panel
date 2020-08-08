@@ -1,0 +1,695 @@
+{
+        "id": "92acc7a2-584f-4feb-ad66-dc96942f3725",
+        "person": [
+            "Lisa Holt",
+            "Bill McCamley"
+        ],
+        "org": [
+            "Main Street Barber Shop",
+            "New Mexico Department of Workforce Solutions",
+            "Santa Fe Reporter",
+            "U.S. Department of Labor"
+        ],
+        "location": [
+            "Clovis",
+            "New Mexico"
+        ],
+        "money": [
+            "$2,000"
+        ],
+        "chron": [
+            "April 22"
+        ]
+    },
+    {
+        "id": "9aea1282-7698-4bd0-b054-ee49337b8945",
+        "org": [
+            "Genesis Health Group",
+            "Genesis Psychology Associates",
+            "Genesis Health System"
+        ]
+    },
+    {
+        "id": "e4c5dfe7-351b-413c-b763-501505d4d636",
+        "org": [
+            "Black Lives Matter",
+            "City Council",
+            "Alliance for Economic Development"
+        ],
+        "location": [
+            "Northeast Oklahoma City",
+            "Lincoln",
+            "Oklahoma City"
+        ],
+        "person": [
+            "David Holt",
+            "Cathy O'Connor",
+            "Sheri Amore Dickerson"
+        ]
+    },
+    {
+        "id": "3ccaf147-983c-43e5-8137-ee6b32366da1",
+        "location": [
+            "Taylor Park",
+            "Main Street"
+        ],
+        "org": [
+            "St. Albans Police Dept"
+        ],
+        "chron": [
+            "6:41 p.m."
+        ]
+    },
+    {
+        "id": "21c50309-8fd7-4237-abfb-634fd5f46b16",
+        "org": [
+            "Rutgers",
+            "NFL",
+            "Big Ten Conference",
+            "Scarlet Knights"
+        ],
+        "person": [
+            "Greg Schiano",
+            "Aron Cruickshank"
+        ]
+    },
+    {
+        "id": "1aa53078-fbcd-4c13-b717-9e794c858215",
+        "money": [
+            "11.75 cents"
+        ]
+    },
+    {
+        "id": "d3790017-c497-44a2-8b4a-a9287fbb88d4",
+        "chron": [
+            "1:00 a.m."
+        ],
+        "org": [
+            "Bank of America"
+        ],
+        "location": [
+            "Goodfellow Boulevard",
+            "Howell Street"
+        ]
+    },
+    {
+        "id": "cc8ec414-0bf4-401a-8d9d-0de0a33539b2",
+        "org": [
+            "Lawton Police Department"
+        ],
+        "location": [
+            "Cache Road",
+            "NW Lake",
+            "Lawton Avenue",
+            "Gore Boulevard",
+            "I Avenue"
+        ]
+    },
+    {
+        "id": "99affa6f-b8b6-4ba3-b99f-82bdd8692644",
+        "chron": [
+            "Friday, May 29, 2020"
+        ],
+        "": [
+            "tharpfuneralhome.com"
+        ]
+    },
+    {
+        "id": "36f9e1a5-c517-4f62-b74d-77d745ea7e80",
+        "chron": [
+            "Monday, June 1, 2020"
+        ]
+    },
+    {
+        "id": "63f3d564-14f3-4909-af49-10efdeb0cb20",
+        "person": [
+            "Deyanna Davis",
+            "Ronald Ensminger Jr",
+            "Randall Shenefiel",
+            "Semaj Pigram",
+            "Walter Stewart Jr",
+            "John Flynn",
+            "Decker Street Monday"
+        ],
+        "org": [
+            "Erie County Medical Center",
+            "New York State Police"
+        ],
+        "location": [
+            "Bailey Avenue",
+            "Bailey Ave.",
+            "Buffalo",
+            "Baliey Avenue",
+            "West Seneca",
+            "Route 33"
+        ],
+        "money": [
+            "$100,000",
+            "$175,000"
+        ],
+        "chron": [
+            "June 22",
+            "9:30 a.m.",
+            "10 p.m. Monday night"
+        ]
+    },
+    {
+        "id": "172b64cd-2308-4577-a03c-05dfba1e3819",
+        "person": [
+            "Steve Allender",
+            "George Floyd"
+        ],
+        "org": [
+            "Black Lives Matter"
+        ],
+        "money": [
+            "$6.6 million"
+        ]
+    },
+    {
+        "id": "b7afa26e-53b4-45d4-80b9-9dbe5e3dc0f4",
+        "org": [
+            "Utopia"
+        ]
+    },
+    {
+        "id": "8e1425df-a909-4374-addd-fd2236db1ad3",
+        "chron": [
+            "Wednesday, June 3"
+        ],
+        "org": [
+            "Sweetwater County Public Health",
+            "Memorial Hospital of Sweetwater County's",
+            "Castle Rock Medical Center"
+        ],
+        "": [
+            "sweetwater311.org",
+            "cdc.gov"
+        ]
+    },
+    {
+        "id": "d6020d90-a865-4f30-a59b-7ac64527f2e2",
+        "chron": [
+            "1:29 p.m. Wednesday, May 27, 2020"
+        ],
+        "org": [
+            "The Family Place"
+        ],
+        "person": [
+            "Michael Sandri",
+            "Lindsey Williams",
+            "Victoria Williams",
+            "Deborah Sandri"
+        ],
+        "location": [
+            "Shamokin Dam"
+        ]
+    },
+    {
+        "id": "047d4d58-9c78-4cbc-8383-9e0dab261cb0",
+        "person": [
+            "James Broccoletti"
+        ],
+        "location": [
+            "Hampton Roads"
+        ]
+    },
+    {
+        "id": "6093092c-c4ec-4b8f-8241-238d5a15a51a",
+        "chron": [
+            "June 1st"
+        ],
+        "org": [
+            "Pima Community College",
+            "North Star",
+            "Arizona Daily Star"
+        ],
+        "person": [
+            "Stormy Daniels"
+        ]
+    },
+    {
+        "id": "ebeae751-0358-42a0-bda9-f768346b14bf",
+        "chron": [
+            "June 3"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "65f4b96b-ae6a-43c6-94e4-e58aba815a46",
+        "chron": [
+            "June 3"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "e3ed206c-40a3-4096-849c-b829c55212d7",
+        "chron": [
+            "June 3"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "99f44290-3981-4df1-82c3-892a51a3f258",
+        "chron": [
+            "5 p.m. PT",
+            "Thursday, June 4"
+        ],
+        "org": [
+            "LA Weekly"
+        ]
+    },
+    {
+        "id": "e3dfcee6-a33f-468d-b2fd-6245c2f76e5e",
+        "chron": [
+            "June 2",
+            "Nov. 7, 2019"
+        ],
+        "location": [
+            "UNITED STATES"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "7d9a7435-a457-4e69-8908-7270d08ee0ec",
+        "chron": [
+            "June 2",
+            "Nov. 4, 2019"
+        ],
+        "location": [
+            "CHINA"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "c8fee049-7e0a-498d-87b5-b3ed36c19803",
+        "person": [
+            "Donald Trump's",
+            "Wilton D Gregory",
+            "Spike Lee",
+            "George Floyd's",
+            "Mr Trump",
+            "Mr Floyd"
+        ],
+        "org": [
+            "BBC"
+        ],
+        "location": [
+            "Minneapolis"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "b823a0cf-1f5e-458a-88d6-15bde4c240a9",
+        "chron": [
+            "June 2",
+            "Nov. 1, 2019"
+        ],
+        "location": [
+            "UNITED STATES"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "ee64624d-b9dd-4a7a-bea5-3c2ca3a3ce70",
+        "person": [
+            "KNIGHT LINE"
+        ],
+        "chron": [
+            "June 2",
+            "Nov. 13, 2019"
+        ],
+        "location": [
+            "DELAWARE"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "73664209-3b11-494a-8769-e5373a301416",
+        "chron": [
+            "June 2",
+            "March 22, 2019"
+        ],
+        "location": [
+            "CHINA",
+            "7F Meihua Dasha Tantou Shiyan St"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "b01d44f2-6646-4f1b-972b-4c44a01cb34a",
+        "chron": [
+            "June 3"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "50688ef2-371f-4ff3-bd9b-f027ac15c561",
+        "chron": [
+            "May 29, 2020",
+            "May 22, 2020"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "4dcd2ac4-3678-44a4-8184-b83fefc65944",
+        "chron": [
+            "June 3"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "472a8604-74fd-4be5-b0ce-a5b2a03f8ff9",
+        "chron": [
+            "June 3"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "708ccdaa-a597-49c3-ab0c-472a3ed525d9",
+        "org": [
+            "Senate Judicial Proceedings Committee",
+            "Maryland Senate",
+            "Office of the Attorney General",
+            "House Judiciary Committee"
+        ],
+        "person": [
+            "George Floyd",
+            "Adrienne Jones",
+            "Freddie Gray"
+        ],
+        "location": [
+            "Montgomery County, Maryland",
+            "Minneapolis, Minnesota",
+            "Minneapolis",
+            "Baltimore",
+            "Maryland"
+        ],
+        "money": [
+            "$20"
+        ]
+    },
+    {
+        "id": "2beb20cc-5e30-4755-856b-30ce9cd3a4b7",
+        "org": [
+            "Court of Claims",
+            "Department of Health and Human Services"
+        ],
+        "location": [
+            "Michigan"
+        ],
+        "person": [
+            "Amelia Howard"
+        ]
+    },
+    {
+        "id": "0152499c-8997-4f87-aed4-2f42814597a9",
+        "org": [
+            "Pennsylvania College of Technology",
+            "Commission on Dental Accreditation",
+            "Pennsylvania Department of Corrections",
+            "University of Maryland Dental School",
+            "American Dental Education Association",
+            "Commission on Dental Competency Assessments",
+            "Penn College",
+            "U.S. Department of Education",
+            "School of Nursing &amp; Health Sciences"
+        ],
+        "location": [
+            "Pennsylvania"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "09a8ddee-8696-4e54-a052-46f379f27cde",
+        "chron": [
+            "June 2",
+            "July 17, 2018"
+        ],
+        "location": [
+            "OREGON"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "6fba44ad-ad87-400c-82ef-dda16fa3fa16",
+        "chron": [
+            "June 2",
+            "Oct. 17, 2019"
+        ],
+        "location": [
+            "CALIFORNIA",
+            "LOS ANGELES CALIFORNIA"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "de499428-4884-4bd4-a6f7-4cc44bd53452",
+        "chron": [
+            "June 2",
+            "Oct. 29, 2019"
+        ],
+        "location": [
+            "PENNSYLVANIA"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "77553f2f-170d-4b8a-a41c-826f8ad2b78f",
+        "chron": [
+            "June 2",
+            "July 11, 2019"
+        ],
+        "location": [
+            "TEXAS"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "ed8bed7b-49f6-4b83-a0a4-b64b8addba5c",
+        "chron": [
+            "June 2",
+            "Oct. 24, 2019"
+        ],
+        "location": [
+            "TEXAS"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "92eb6991-4c43-4ecc-93a2-94ccf3668257",
+        "chron": [
+            "June 2",
+            "Feb. 8, 2019"
+        ],
+        "location": [
+            "DELAWARE"
+        ],
+        "org": [
+            "Houston TEXAS"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "cc0b8b42-163f-4063-b7b4-302ea9a38525",
+        "chron": [
+            "June 2",
+            "May 3, 2018"
+        ],
+        "location": [
+            "Commercial Services LIMITED PARTNERSHIP SAUDI ARABIA Alnarges District- Othman Bin Affan St."
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "19c34779-7a2c-4acd-93cc-e2b82330770f",
+        "chron": [
+            "June 2",
+            "Aug. 31, 2019"
+        ],
+        "location": [
+            "DELAWARE",
+            "Novato CALIFORNIA"
+        ],
+        "a": [
+            "contentservices@htlive.com"
+        ]
+    },
+    {
+        "id": "7cfcf6c1-c8fb-4c36-aa79-adb44ca06ae7",
+        "person": [
+            "Kathy Jo Cook",
+            "Victoria Kelleher",
+            "Chief Justice Paula M. Carey",
+            "Jonathan S. Williams"
+        ],
+        "chron": [
+            "March 16",
+            "June 1"
+        ],
+        "org": [
+            "Massachusetts Academy of Trial Lawyers",
+            "Massachusetts Defense Lawyers Association",
+            "Boston Bar Association",
+            "U.S. District Court",
+            "Massachusetts Association of Criminal Defense Lawyers",
+            "Probation Department",
+            "U.S. Bankruptcy Court"
+        ],
+        "location": [
+            "Boston",
+            "Hampshire County",
+            "Barnstable",
+            "Worcester"
+        ],
+        "money": [
+            "$160 million"
+        ]
+    },
+    {
+        "id": "4fd60f7e-9b5d-494e-8a97-82f2a9e4fdb5",
+        "location": [
+            "Central Pennsylvania",
+            "Cumberland",
+            "Lancaster"
+        ],
+        "org": [
+            "American Bankers Association",
+            "Lenders Cooperative",
+            "Small Business Administration"
+        ],
+        "person": [
+            "Ben Wallace",
+            "Brad Olena"
+        ],
+        "money": [
+            "$25 billion"
+        ]
+    },
+    {
+        "id": "7b8842ae-8b4f-45f8-8975-63d84d92e83d",
+        "location": [
+            "Illinois",
+            "Schaumburg",
+            "Chicago"
+        ],
+        "person": [
+            "Martin Luther King Jr's"
+        ]
+    },
+    {
+        "id": "2c059e58-928a-4a9a-8388-1512db30a4f3",
+        "org": [
+            "LanzaTech",
+            "LanzaJet Inc.",
+            "Mitsui &amp; Co., Ltd.",
+            "All Nippon Airways",
+            "LanzaTech's"
+        ],
+        "money": [
+            "$15 million",
+            "$10 million",
+            "$14 million"
+        ],
+        "location": [
+            "Soperton, Georgia"
+        ]
+    },
+    {
+        "id": "cc13af27-27c0-49d8-91d6-75175323313f",
+        "person": [
+            "Angela Dugalic",
+            "Derril Kipp",
+            "Dave Yates"
+        ],
+        "location": [
+            "Illinois"
+        ],
+        "org": [
+            "Feed My Starving Children"
+        ]
+    },
+    {
+        "id": "4b994234-7fa8-45ae-97b0-78df31d49741",
+        "org": [
+            "Democrats"
+        ],
+        "money": [
+            "$45,000"
+        ]
+    },
+    {
+        "id": "442fd2c5-8313-4f2e-868f-3dc16a3bd092",
+        "location": [
+            "Nueva York",
+            "Columbia",
+            "Kawasaki",
+            "New Hyde Park"
+        ],
+        "person": [
+            "Centro Medico Irving",
+            "del Hospital de Huntington"
+        ],
+        "org": [
+            "JAMA Pediatrics",
+            "Northwell Health"
+        ]
+    },
+    {
+        "id": "7740f15c-7242-41a7-8b77-a05fb0875301",
+        "org": [
+            "COD New Bureau",
+            "COD Library"
+        ],
+        "person": [
+            "Jenny Dunbar"
+        ],
+        "": [
+            "cod.edu/coronavirus/covid-digital-archive.aspx"
+        ],
+        "a": [
+            "dunbarj412@cod.edu"
+        ]
+    },

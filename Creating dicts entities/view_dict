@@ -1,0 +1,122 @@
+{
+        "id": "92acc7a2-584f-4feb-ad66-dc96942f3725",
+        "person": [
+            "Lisa Holt",
+            "Bill McCamley"
+        ],
+        "org": [
+            "Main Street Barber Shop",
+            "New Mexico Department of Workforce Solutions",
+            "Santa Fe Reporter",
+            "U.S. Department of Labor"
+        ],
+        "location": [
+            "Clovis",
+            "New Mexico"
+        ],
+        "money": [
+            "$2,000"
+        ],
+        "chron": [
+            "April 22"
+        ]
+    },
+    {
+        "id": "9aea1282-7698-4bd0-b054-ee49337b8945",
+        "org": [
+            "Genesis Health Group",
+            "Genesis Psychology Associates",
+            "Genesis Health System"
+        ]
+    },
+    {
+        "id": "e4c5dfe7-351b-413c-b763-501505d4d636",
+        "org": [
+            "Black Lives Matter",
+            "City Council",
+            "Alliance for Economic Development"
+        ],
+        "location": [
+            "Northeast Oklahoma City",
+            "Lincoln",
+            "Oklahoma City"
+        ],
+        "person": [
+            "David Holt",
+            "Cathy O'Connor",
+            "Sheri Amore Dickerson"
+        ]
+    },
+    {
+        "id": "3ccaf147-983c-43e5-8137-ee6b32366da1",
+        "location": [
+            "Taylor Park",
+            "Main Street"
+        ],
+        "org": [
+            "St. Albans Police Dept"
+        ],
+        "chron": [
+            "6:41 p.m."
+        ]
+    },
+    {
+        "id": "21c50309-8fd7-4237-abfb-634fd5f46b16",
+        "org": [
+            "Rutgers",
+            "NFL",
+            "Big Ten Conference",
+            "Scarlet Knights"
+        ],
+        "person": [
+            "Greg Schiano",
+            "Aron Cruickshank"
+        ]
+    },
+    {
+        "id": "1aa53078-fbcd-4c13-b717-9e794c858215",
+        "money": [
+            "11.75 cents"
+        ]
+    },
+    {
+        "id": "d3790017-c497-44a2-8b4a-a9287fbb88d4",
+        "chron": [
+            "1:00 a.m."
+        ],
+        "org": [
+            "Bank of America"
+        ],
+        "location": [
+            "Goodfellow Boulevard",
+            "Howell Street"
+        ]
+    },
+    {
+        "id": "cc8ec414-0bf4-401a-8d9d-0de0a33539b2",
+        "org": [
+            "Lawton Police Department"
+        ],
+        "location": [
+            "Cache Road",
+            "NW Lake",
+            "Lawton Avenue",
+            "Gore Boulevard",
+            "I Avenue"
+        ]
+    },
+    {
+        "id": "99affa6f-b8b6-4ba3-b99f-82bdd8692644",
+        "chron": [
+            "Friday, May 29, 2020"
+        ],
+        "": [
+            "tharpfuneralhome.com"
+        ]
+    },
+    {
+        "id": "36f9e1a5-c517-4f62-b74d-77d745ea7e80",
+        "chron": [
+            "Monday, June 1, 2020"
+        ]
+    },
