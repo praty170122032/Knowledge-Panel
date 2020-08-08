@@ -1,9 +1,0 @@
-Extracted the summary of wiki page for each entity through web scraping using beautiful soup and converted the HTML to plain text.
-
-Defined 3 different methods to extract all possible abbreviations from the summary, using schwartz_hearst abbreviation extraction and regular expressions.
-
-Pulled first letters of the normalized term, and used jaro winkler matching algorithm to get the matching score of each extracted abbreviation for that term.
-
-Using defined cut off, assigned the abbreviation having maximum score to the normalized term in the dictionary. 
-
-
