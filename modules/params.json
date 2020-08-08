@@ -1,0 +1,18 @@
+{
+	"discovery":{
+		"default":"a1",
+		"r3":{
+			"version":"2019-04-30",
+			"apikey":"e60nrAsq6WIQmWfuzv9_8by2yCXinHK_FOe3u9MSI1ml",
+			"url":"https://api.us-east.discovery.watson.cloud.ibm.com/instances/f2df1dc1-c923-49c1-80f3-7e23fc0441e8"
+		},
+		"a1":{
+			"version":"2019-04-30",
+			"apikey":"h1IoNg4AIKbGtBs8n8QGf4dZ5tZwMpeVERQUrC1Q2-DF",
+			"url":"https://api.jp-tok.discovery.watson.cloud.ibm.com/instances/2330122b-7269-496b-ba7e-029f641470a1"
+		},
+		"version1":"2018-12-03",
+		"apikey1":"LTk2AGh0Mjsu3G9bGGSkU92xeCBAYdfa4lN4fjaA-CR4",
+		"url1":"https://gateway.watsonplatform.net/discovery/api"
+	}
+}
